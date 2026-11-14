@@ -2,7 +2,7 @@
 
 Sélection essentielle portée depuis [affaan-m/ECC](https://github.com/affaan-m/ECC) (MIT) et adaptée aux agents de code Mistral (Vibe Code, et tout agent qui lit un `AGENTS.md`).
 
-**Contenu** : 15 skills, 10 agents, 10 commandes — soit 35 éléments choisis pour couvrir le cycle `plan → test → implement → review → verify`, sans les hooks ni les scripts runtime d'ECC (spécifiques à Claude Code).
+**Contenu** : 41 skills, 10 agents, 10 commandes — soit 66 éléments choisis pour couvrir le cycle `plan → test → implement → review → verify`, sans les hooks ni les scripts runtime d'ECC (spécifiques à Claude Code).
 
 ## Utilisation avec un agent Mistral
 

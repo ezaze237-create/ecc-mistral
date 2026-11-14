@@ -28,6 +28,32 @@ Engineering methodology layer ported from [affaan-m/ECC](https://github.com/affa
 | `typescript-patterns` | TypeScript design patterns and idiom |
 | `python-patterns` | Python design patterns and idiom |
 | `frontend-patterns` | Frontend architecture and component design |
+| `react-patterns` | React component and hook design |
+| `react-testing` | Testing React components and hooks |
+| `react-performance` | Rendering performance and memoization in React |
+| `nextjs-turbopack` | Next.js (Turbopack) project patterns |
+| `vue-patterns` | Vue component and store design |
+| `design-system` | Building and governing a design system |
+| `frontend-a11y` | Accessibility in frontend work |
+| `backend-patterns` | Backend service design patterns |
+| `fastapi-patterns` | FastAPI service patterns |
+| `django-patterns` | Django project patterns |
+| `django-tdd` | TDD in Django projects |
+| `django-security` | Django security checklist and patterns |
+| `nestjs-patterns` | NestJS service patterns |
+| `laravel-patterns` | Laravel project patterns |
+| `golang-patterns` | Go design patterns and idiom |
+| `golang-testing` | Testing Go code |
+| `rust-patterns` | Rust design patterns and idiom |
+| `rust-testing` | Testing Rust code |
+| `kotlin-patterns` | Kotlin design patterns and idiom |
+| `postgres-patterns` | PostgreSQL schema and query patterns |
+| `redis-patterns` | Redis data and caching patterns |
+| `docker-patterns` | Dockerfile and container patterns |
+| `kubernetes-patterns` | Kubernetes deployment patterns |
+| `mcp-server-patterns` | Building MCP servers and tool surfaces |
+| `prompt-optimizer` | Improving prompt quality and cost |
+| `prompt-caching-strategy` | Cross-provider prompt caching (incl. Mistral `prompt_cache_key`) |
 
 ## Agents
 
