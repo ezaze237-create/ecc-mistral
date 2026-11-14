@@ -35,7 +35,7 @@ minimum prefix length or retention. Caching does not reduce context-window use.
 
 Keep reusable instructions, tool schemas and examples stable; place changing
 questions, timestamps and retrieved results after that content where the API
-allows. Respect the provider's serialization order: Claude uses tools, system,
+allows. Respect the provider's serialization order: Anthropic uses tools, system,
 then messages. Matching prefixes need identical content, including tool schemas
 and relevant request settings. A changed prefix can prevent reuse from that
 point. A dynamic suffix may itself be cached later if reused unchanged.
